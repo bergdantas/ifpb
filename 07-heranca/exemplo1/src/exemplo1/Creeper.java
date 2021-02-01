@@ -79,6 +79,7 @@ public class Creeper {
 	}
 	
 	public void deslocamento() {
-		
+		//implementação do método que movimenta o monstro
+
 	}
 }

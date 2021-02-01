@@ -80,6 +80,7 @@ public class Zumbi {
 	}
 
 	public void deslocamento() {
-		
+		//implementação do método que movimenta o monstro
+
 	}
 }
