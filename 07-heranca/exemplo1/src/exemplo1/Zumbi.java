@@ -63,8 +63,10 @@ public class Zumbi {
 		System.out.println("mordi");
 	}
 	
-	public void controleDaArea() {
+	public boolean controleDaArea() {
 		//implementação do método que gerencia a área
+		
+		return false;
 	}
 	
 }

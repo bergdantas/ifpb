@@ -72,8 +72,10 @@ public class Creeper {
 		System.out.println("explodi");
 	}
 	
-	public void controleDaArea() {
+	public boolean controleDaArea() {
 		//implementação do método que gerencia a área
+		
+		return false;
 	}
 		
 }
