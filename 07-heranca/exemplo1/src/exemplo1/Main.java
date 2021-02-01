@@ -7,7 +7,7 @@ public class Main {
 		System.out.println(c1);
 		c1.explodir();
 
-		Zumbi z1 = new Zumbi(50.5, 100.87, 32.85, 2);		
+		Zumbi z1 = new Zumbi(50.5, 100.87, 32.85, 60, 2);		
 		System.out.println(z1);
 		z1.morder();
 	}
