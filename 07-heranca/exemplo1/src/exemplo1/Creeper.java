@@ -77,5 +77,8 @@ public class Creeper {
 		
 		return false;
 	}
+	
+	public void deslocamento() {
 		
+	}
 }

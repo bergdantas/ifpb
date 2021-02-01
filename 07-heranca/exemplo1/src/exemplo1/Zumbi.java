@@ -78,5 +78,8 @@ public class Zumbi {
 		
 		return false;
 	}
-	
+
+	public void deslocamento() {
+		
+	}
 }
